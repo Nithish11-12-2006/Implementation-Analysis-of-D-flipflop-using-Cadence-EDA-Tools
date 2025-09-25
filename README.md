@@ -46,21 +46,16 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ### 2. Schematic of D Flip-Flop
 <img width="1920" height="1200" alt="d_latches" src="https://github.com/user-attachments/assets/aebb53e4-d36a-489a-802f-3068b3bf9654" />
 
-
-
 ### 3. Transient Response Setup
 
 ![d_latches_analysis](https://github.com/user-attachments/assets/e83d7db0-a403-44d0-8be8-3e844f594301)
 
 ![d_latches_ade](https://github.com/user-attachments/assets/40fba02e-4825-4b43-b105-a932bfb543fa)
 
-
 ## Output
 
 ### 1. Transient Analysis Output
 <img width="1920" height="1200" alt="d_latches_output" src="https://github.com/user-attachments/assets/e9d72c73-b3f4-4be9-a0e8-ad8c0e371428" />
-
-
 
 ## Results
 1. Successfully designed the D flip-flop schematic using Cadence EDA tools.
